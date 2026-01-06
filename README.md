@@ -1,19 +1,28 @@
-# Git Task 1 – CODTECH Internship
+# Git Task 1 – Version Control Basics
 
-## Objective
-To demonstrate Git fundamentals including repository creation, branching,
-merge conflict resolution, and documentation.
+## Description
+This repository demonstrates **fundamental Git workflows** used in software development.  
+The task focuses on **branching, committing, merging, and pushing changes** to GitHub, helping to understand version control in collaborative projects.
 
-## Steps Performed
-- Created a GitHub repository
-- Created a feature branch
-- Modified files in master and feature branches
-- Resolved merge conflict
-- Merged feature branch into master
+---
 
 ## Tools Used
-- Git
-- GitHub
 
-## Outcome
-Successfully resolved merge conflicts and maintained a clean commit history.
+| Tool | |
+|------|---|
+| Git | ![Git](https://img.icons8.com/color/20/000000/git.png) |
+| GitHub | ![GitHub](https://img.icons8.com/ios-glyphs/20/000000/github.png) |
+| Linux / CLI | ![Linux](https://img.icons8.com/color/20/000000/linux.png) |
+
+---
+
+## Task Objectives
+- Learn and apply basic Git commands  
+- Create and manage feature branches  
+- Commit changes on multiple branches  
+- Merge branches and resolve conflicts  
+- Push final code to GitHub repository  
+
+---
+
+## Project Structure
